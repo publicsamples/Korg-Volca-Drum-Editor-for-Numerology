@@ -9,3 +9,9 @@ Two seperate patches are included. The first works using the Volca Drum's Split 
 Numerology: http://www.five12.com/hq/N4
 
 Demo: https://www.youtube.com/watch?v=vtiVQQhLz1c&feature=youtu.be
+
+# Disks
+
+[
+![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+](https://gum.co/modularsamples-drives)
