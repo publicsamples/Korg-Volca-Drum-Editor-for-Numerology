@@ -18,5 +18,5 @@ Demo: https://www.youtube.com/watch?v=vtiVQQhLz1c&feature=youtu.be
 **Support this project**
 
 [
-![enter image description here](![ulp](https://www.modularsamples.com/img/ex2.png))
+![enter image description here](https://www.modularsamples.com/img/ex2.png)
 ](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
