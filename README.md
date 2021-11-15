@@ -1,3 +1,4 @@
+
 # Korg Volca Drum Editor for Numerology
  
 An editor for the Korg Volca Drum built with Five12's Numerology.  
@@ -10,10 +11,12 @@ Numerology: http://www.five12.com/hq/N4
 
 Demo: https://www.youtube.com/watch?v=vtiVQQhLz1c&feature=youtu.be
 
-# Support this project
+**Get help**
 
-[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
+[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
+
+**Support this project**
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![enter image description here](![ulp](https://www.modularsamples.com/img/ex2.png))
+](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
