@@ -11,12 +11,3 @@ Numerology: http://www.five12.com/hq/N4
 
 Demo: https://www.youtube.com/watch?v=vtiVQQhLz1c&feature=youtu.be
 
-## **Get help**
-
-[Report an issue](https://github.com/publicsamples/home/issues) - [Ask a question](https://github.com/publicsamples/home/discussions) - [Guides](https://github.com/publicsamples/home/wiki)
-
-## **Support this project**
-
-[
-![enter image description here](https://www.modularsamples.com/img/ex2.png)
-](https://www.modularsamples.com/excessive-hits-one-shot-sample-library/)
